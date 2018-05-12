@@ -1,0 +1,29 @@
+_repo: The-Automobile-Girls-Along-the-Hudson--13-Or-Fighting-Fire-in-Sleepy-Hollow_37454
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crane, Laura Dent
+    gutenberg_agent_id: '4425'
+    url: http://www.gutenberg.org/2009/agents/4425
+description: ''
+gutenberg_issued: '2011-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37454'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Societies and clubs -- Juvenile fiction'
+- !lcsh 'Hudson River (N.Y. and N.J.) -- Juvenile fiction'
+- !lcsh 'Brigands and robbers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Automobile travel -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Vacations -- Juvenile fiction'
+title: The Automobile Girls Along the Hudson; Or, Fighting Fire in Sleepy Hollow
+url: http://www.gutenberg.org/ebooks/37454
